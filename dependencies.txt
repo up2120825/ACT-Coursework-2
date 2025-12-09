@@ -1,3 +1,6 @@
+in my notebooks, I use matplotlib and seaborn for plotting, numpy and pandas for data manipulation, sklearn for various machine learning techniques, and tensorflow for neural networks 
+
+
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
